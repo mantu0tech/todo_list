@@ -34,6 +34,11 @@ This project is a simple to-do list web application built using Django, a high-l
 - python manage.py runserver
 
 8. Access the application in your web browser at `http://localhost:8000`.
+9.<img width="1861" height="856" alt="image" src="https://github.com/user-attachments/assets/8f727fbc-1f47-429a-b413-b7fa115e925d" />
+
+<img width="1870" height="862" alt="image" src="https://github.com/user-attachments/assets/7d0b9085-63a7-47a1-b937-6560e9446144" />
+
+
 
 ## Usage
 1. Create a new account or log in if you already have an account.
