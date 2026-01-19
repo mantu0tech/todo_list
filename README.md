@@ -12,7 +12,6 @@ This project is a simple to-do list web application built using Django, a high-l
 1. Clone this repository:
 
 - https://github.com/mantu0tech/todo_list.git
-#https://github.com/nagesh882/to-do-list-project.git
 
 2. Navigate to the project directory:
 - cd to_do_list_project
